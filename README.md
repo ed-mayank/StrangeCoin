@@ -1,0 +1,2 @@
+# StrangeCoin
+My Personal Cryptocurrency
